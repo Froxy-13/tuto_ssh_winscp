@@ -10,7 +10,7 @@ Ce tutoriel documente l’installation et la configuration de OpenSSH Server sou
 [Voir la démonstration vidéo](https://drive.google.com/file/d/1YEjN_6EJyYdtpWtBLk3btk1YDkmkyPMp/view?usp=drive_link)
 
 ### Lien GitHub
-[https://github.com/votre-utilisateur/tutoriel-ssh-winscp](https://github.com/votre-utilisateur/tutoriel-ssh-winscp)
+[https://github.com/Froxy-13/tuto_ssh_winscp.git](https://github.com/Froxy-13/tuto_ssh_winscp.git)
 
 ### Technologies utilisées
 - OpenSSH Server (Ubuntu)
